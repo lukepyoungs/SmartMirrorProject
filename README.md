@@ -1,6 +1,6 @@
 # 🌟 **Smart Mirror Project** 🌟
 
-![Smart Mirror Image](#) <!-- Replace with your image link or instructions -->
+![Smart Mirror Image](./mirror.jpeg) <!-- Replace with your image link or instructions -->
 
 ## ✨ **Overview**
 
